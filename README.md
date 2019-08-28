@@ -14,7 +14,7 @@
 
 "husky" : {
     "hooks": {
-      "pre-commit": "git-commit-helper"
+      "commit-msg": "git-commit-helper"
     }
 }
 
@@ -27,7 +27,7 @@
 
 "husky" : {
     "hooks": {
-      "pre-commit": "git-commit-helper -p task -i feature -i hotfix"
+      "commit-msg": "git-commit-helper -p task -i feature -i hotfix"
     }
 }
 

@@ -1,6 +1,6 @@
 {
   "name": "git-commit-helper",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "git for commit",
   "bin": {
     "git-commit-helper": "bin/cli.js"
