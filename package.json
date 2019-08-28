@@ -1,0 +1,30 @@
+{
+  "name": "git-commit-helper",
+  "version": "0.0.0",
+  "description": "git for commit",
+  "bin": {
+    "git-commit-helper": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxingit/git-commit-helper.git"
+  },
+  "keywords": [
+    "git",
+    "commit"
+  ],
+  "author": "lx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuxingit/git-commit-helper/issues"
+  },
+  "homepage": "https://github.com/liuxingit/git-commit-helper#readme",
+  "dependencies": {
+    "cac": "^6.5.2",
+    "chalk": "^2.4.2",
+    "git-branch": "^2.0.1"
+  }
+}
